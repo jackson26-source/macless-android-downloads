@@ -9,3 +9,5 @@ Macless template, packaged without the iOS-specific pieces.
 
 Full details, setup, and support: see the docs inside the zip
 (README.md, ANDROID.md, SUPPORT.md). Questions: localinfine@gmail.com
+
+Note: the zip previously linked from this README has been removed. Email the address above and the current build will be sent directly.
